@@ -1,14 +1,23 @@
 p {
-    font-family: 'Menlo';
-    font-size: 24px;
-    line-height: 18px;
+    font-family: Helvetica;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 300;
     color: black;
     word-wrap: break-word;
 }
 
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: #999B9F;
+}
+
 body {
-    background-color: #1a2230;
+    background-color: #F1F3F5;
     margin: 0;
-    padding: 5px 0px;
+    padding: 32px;
   }
  
