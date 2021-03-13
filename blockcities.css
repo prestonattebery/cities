@@ -1,0 +1,47 @@
+html {
+    font-family: 'Menlo';
+    font-size: 12px;
+    line-height: 18px;
+    background-color: #1a2230;
+    color: black;
+    word-wrap: break-word;
+    margin: 0;
+    padding: 5px 0px;
+  }
+  
+  body { margin: 0; padding: 0; }
+  
+  /* the html tag has these classes and attributes too */
+  body.normal {}
+  body.console {}
+  body[type=channel] {}
+  body[type=talk] {}
+  body[type=console] {}
+  body[channelname=#Tumblr] {}
+  
+  hr { margin: 0.5em 2em; }
+  a { color: #00afca; }
+  a:hover { text-decoration: none; }
+  .inlineimage {}
+  
+  /* lines */
+  .line { padding: 0px 5px 0px 10px; }
+  .line[alternate=even] {}
+  .line[alternate=odd] {}
+  .line[type=action] {
+      font-style: italic;
+  }
+  .line[type=action] .sender:before {
+    content: "";
+  }
+  .line[highlight=true] {
+    background-color: #253043;
+  }
+  
+  .url { word-break: break-all; }
+  .address { text-decoration: underline; word-break: break-all; }
+  .highlight { color: #c2339a; font-weight: bold; }
+  .time { color: #415459; }
+  .place { color: #d28f59; }
+  
+ 
