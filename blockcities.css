@@ -1,10 +1,13 @@
-body {
+p {
     font-family: 'Menlo';
     font-size: 24px;
     line-height: 18px;
-    background-color: #1a2230;
     color: black;
     word-wrap: break-word;
+}
+
+body {
+    background-color: #1a2230;
     margin: 0;
     padding: 5px 0px;
   }
