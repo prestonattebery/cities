@@ -7,6 +7,13 @@ p {
     word-wrap: break-word;
 }
 
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    color: black;
+}
+
 a:visited {
     color: black;
 }
