@@ -1,7 +1,7 @@
 p {
     font-family: Helvetica;
     font-size: 16px;
-    line-height: 22px;
+    line-height: 20px;
     font-weight: 300;
     color: black;
     word-wrap: break-word;
@@ -10,6 +10,7 @@ p {
 h2 {
     font-family: Helvetica;
     font-size: 24px;
+    line-height: 24px;
     font-weight: 400;
     color: black;
 }
