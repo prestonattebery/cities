@@ -10,7 +10,7 @@ p {
 .paragraph {
     font-family: Helvetica;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 32px;
     font-weight: 400;
     color: black;
     word-wrap: break-word;
