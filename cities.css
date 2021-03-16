@@ -7,12 +7,12 @@ p {
     word-wrap: break-word;
 }
 
-.paragraph {
+p.long {
     font-family: Helvetica;
     font-size: 16px;
     line-height: 32px;
     font-weight: 300;
-    color: black;
+    color: #888A8D;
     word-wrap: break-word;
 }
 
