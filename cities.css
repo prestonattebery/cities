@@ -2,8 +2,17 @@ p {
     font-family: Helvetica;
     font-size: 16px;
     line-height: 20px;
-    font-weight: 400;
+    font-weight: 300;
     color: black;
+    word-wrap: break-word;
+}
+
+.grey {
+    font-family: Helvetica;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 300;
+    color: #999B9F;
     word-wrap: break-word;
 }
 
