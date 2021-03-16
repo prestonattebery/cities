@@ -7,6 +7,15 @@ p {
     word-wrap: break-word;
 }
 
+.paragraph {
+    font-family: Helvetica;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: black;
+    word-wrap: break-word;
+}
+
 .grey {
     font-family: Helvetica;
     font-size: 16px;
