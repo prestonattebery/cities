@@ -16,6 +16,10 @@ p.long {
     word-wrap: break-word;
 }
 
+p.clear {
+    color: #F1F3F5;
+}
+
 .grey {
     font-family: Helvetica;
     font-size: 16px;
