@@ -38,7 +38,11 @@ a:visited {
 }
 
 a:hover {
-    color: #999B9F;
+    color: #888A8D;
+}
+
+a.grey {
+    color: #888A8D;
 }
 
 body {
